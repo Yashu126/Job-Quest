@@ -1,0 +1,20 @@
+.salary-ul {
+  padding-left: 0px;
+}
+.salary-li {
+  list-style-type: none;
+  margin-top: 5px;
+  display: flex;
+  align-items: center;
+}
+
+.radio-in {
+  width: 10px;
+}
+
+.salary-label {
+  color: #f8fafc;
+  margin-left: 8px;
+  font-size: 12px;
+  margin-top: 3px;
+}

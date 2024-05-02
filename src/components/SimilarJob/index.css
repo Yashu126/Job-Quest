@@ -1,0 +1,14 @@
+.similar-job-background {
+  list-style-type: none;
+  background-color: #272727;
+  padding: 20px;
+  border-radius: 15px;
+  margin-bottom: 10px;
+  width: 100%;
+}
+
+@media screen and (min-width: 768px) {
+  .similar-job-background {
+    width: 32%;
+  }
+}

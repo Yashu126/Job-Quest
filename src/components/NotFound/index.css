@@ -1,0 +1,13 @@
+.not-found-con {
+  background-color: #121212;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #f1f5f9;
+}
+
+.not-found {
+  text-align: center;
+}

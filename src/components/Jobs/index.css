@@ -1,0 +1,35 @@
+.job-background {
+  list-style-type: none;
+  background-color: #272727;
+  padding: 20px;
+  border-radius: 15px;
+  margin-bottom: 10px;
+}
+
+.location-package {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.link {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.logo-tilte-con {
+  display: flex;
+  align-items: center;
+  margin-right: 15px;
+}
+.company-logo {
+  width: 60px;
+  margin-right: 15px;
+}
+.star {
+  color: #fbbf24;
+}
+
+.loc-emp-type {
+  margin-left: 10px;
+}
